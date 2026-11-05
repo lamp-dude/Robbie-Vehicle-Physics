@@ -6,7 +6,7 @@ A robust, custom Rigidbody vehicle controller for Unity. Unlike standard Unity `
 
 * **Unlimited Contact Points:** A single wheel can rest on two different surfaces (e.g., bridging a gap) simultaneously.
 * **Mesh-Based Collision:** The physics uses the actual 3D mesh of your wheel, not a primitive sphere or raycast.
-* **Realistic Suspension:** Suspension using Hook's law
+* **Realistic Suspension:** Suspension using Hook's law.
 
 ---
 
